@@ -1,0 +1,3 @@
+﻿  17.cpp
+E:\GitHub\Some.cpp\17\17\17.cpp(18,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  17.vcxproj -> E:\GitHub\Some.cpp\17\Debug\17.exe
